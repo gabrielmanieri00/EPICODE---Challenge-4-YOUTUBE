@@ -67,11 +67,13 @@ body {
 .top-icon {
   font-size: 2em;
   padding: 0 0.5em;
+  cursor: pointer;
 }
 
 .mic-icon {
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 .search-btn {
@@ -112,6 +114,7 @@ body {
   font-size: 20px;
   font-weight: 600;
   font-style: bold;
+  cursor: pointer;
 }
 
 .description{
@@ -121,6 +124,7 @@ body {
   font-weight: 400;
   font-style: normal;
   opacity: 0.85;
+  cursor: pointer;
 }
 
 .anteprima{
@@ -130,6 +134,7 @@ body {
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
+  cursor: pointer;
 }
 
 .logo{
@@ -139,4 +144,5 @@ body {
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
+  cursor: pointer;
 }
